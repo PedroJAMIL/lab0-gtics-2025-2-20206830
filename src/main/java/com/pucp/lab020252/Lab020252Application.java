@@ -16,6 +16,8 @@ public class Lab020252Application {
 		for (String item : lista) {
 			System.out.println(item);
 		}
+		System.out.println("Creación de mascotas");
+
 	}
 
 }
